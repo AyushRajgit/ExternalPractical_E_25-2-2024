@@ -2,7 +2,7 @@
 <h3><b>Description</b></h3>
 The goal of this project is to create a travel website that showcases different destination packages. The website should be visually appealing and easy to navigate, while also providing relevant information about you and your background. The site should be built entirely with HTML and CSS, with no JavaScript code included.<br/>
 <b>Example</b><br/>
-https://varadbhogayata.github.io/
+https://codewithsadee.github.io/tourly/
 
 <h3><b>Deliverables</b></h3>
 <li>One HTML file for the structure of the website<br/></li>
